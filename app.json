@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FriendCash",
-    "slug": "FriendCash",
+    "name": "file-base-routing",
+    "slug": "file-base-routing",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
